@@ -1,0 +1,13 @@
+git add .
+git commit -m 'message'
+git push
+git branch
+git fetch
+git status
+
+// crud in git stash
+git stash -u      ("-u" is to include untracked files)
+git stash apply stash@{1}     (to apply specific stash)
+git stash drop stash@{1}      (to drop specific stash)
+git stash list      (list all stash)
+
