@@ -1,2 +1,4 @@
 console.log('first commit after stash')
 console.log('first');
+console.log('second');
+console.log('third');
