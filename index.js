@@ -5,3 +5,4 @@ console.log('third');
 console.log('fourth');
 console.log('fifth');
 console.log('sixth');
+console.log('seventh');
