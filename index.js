@@ -8,3 +8,4 @@ console.log('sixth');
 console.log('seventh');
 console.log('eighth');
 console.log('ninth');
+console.log('tenth');
