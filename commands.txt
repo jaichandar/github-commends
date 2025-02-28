@@ -11,3 +11,9 @@ git stash apply stash@{1}     (to apply specific stash)
 git stash drop stash@{1}      (to drop specific stash)
 git stash list      (list all stash)
 
+// create branch from local and push to remote
+git branch -b branch-name
+git add .
+git commit -m 'commit message'
+git push -u origin branch-name  ("-u" it describe the trace between your local branch and remote branch)
+
