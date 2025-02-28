@@ -7,3 +7,4 @@ console.log('fifth');
 console.log('sixth');
 console.log('seventh');
 console.log('eighth');
+console.log('ninth');
